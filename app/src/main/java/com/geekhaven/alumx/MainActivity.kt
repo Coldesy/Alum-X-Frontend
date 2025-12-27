@@ -13,6 +13,7 @@ import androidx.navigation.compose.rememberNavController
 import com.geekhaven.alumx.navigation.AppNavGraph
 import com.geekhaven.alumx.ui.theme.AlumXTheme
 
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
